@@ -18,7 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSString *str=@"str";
-    NSLog(@"denglu");
+    NSLog(@"%@",str);
+    
 }
 
 - (void)didReceiveMemoryWarning {
