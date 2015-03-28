@@ -10,6 +10,8 @@
 	<string>test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>631E4493833A4EE8572FEEC5038E71E52ED59866</key>
+		<string>https://github.com/sunyimin-ios/test-ios.git</string>
 		<key>EBFCCAF1FBE3CC7008A9C664AB2428CC9385A662</key>
 		<string>https://github.com/sunyimin-ios/test.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>test.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>EBFCCAF1FBE3CC7008A9C664AB2428CC9385A662</key>
+		<key>631E4493833A4EE8572FEEC5038E71E52ED59866</key>
 		<string>../..</string>
+		<key>EBFCCAF1FBE3CC7008A9C664AB2428CC9385A662</key>
+		<string>../../../test</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/sunyimin-ios/test.git</string>
+	<string>https://github.com/sunyimin-ios/test-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>EBFCCAF1FBE3CC7008A9C664AB2428CC9385A662</string>
+	<string>631E4493833A4EE8572FEEC5038E71E52ED59866</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>EBFCCAF1FBE3CC7008A9C664AB2428CC9385A662</string>
 			<key>IDESourceControlWCCName</key>
 			<string>test</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>631E4493833A4EE8572FEEC5038E71E52ED59866</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test-ios</string>
 		</dict>
 	</array>
 </dict>
